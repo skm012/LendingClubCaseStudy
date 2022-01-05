@@ -52,13 +52,11 @@ Like most other lending companies, lending loans to ‘risky’ applicants is th
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by Lending Club Case Study.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@skm012] - feel free to contact me!
 
 
 <!-- Optional -->
